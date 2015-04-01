@@ -8,7 +8,3 @@ function init (args) {
 function start () {
 	
 } 
-
-function end (argument) {
-	// body...
-}
