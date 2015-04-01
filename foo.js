@@ -8,3 +8,6 @@ function init (args) {
 function start () {
 	
 } 
+ function middle (argument) {
+ 	// body...
+ }
