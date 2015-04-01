@@ -19,13 +19,13 @@
 			}
 		},
 		{
-			"contents": "function init (args) {\n	var foo = 'asdf',\n		bar = 'qwer';\n\n\n};\n\nfunction start () {\n	\n}",
+			"contents": "function init (args) {\n	var foo = 'asdf';\n	\n}",
 			"file": "foo.js",
 			"file_size": 0,
 			"file_write_time": 130714243256538555,
 			"settings":
 			{
-				"buffer_size": 87,
+				"buffer_size": 45,
 				"line_ending": "Windows"
 			}
 		}
@@ -33,19 +33,11 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 409.0,
+		"height": 446.0,
 		"selected_items":
 		[
-			[
-				"Snippet: ",
-				"Snippet: Get Elements"
-			],
-			[
-				"sni",
-				"Snippet: if … else"
-			]
 		],
-		"width": 310.0
+		"width": 630.0
 	},
 	"console":
 	{
@@ -65,7 +57,6 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Chris/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
 		"/D/Dev/test/test.html"
 	],
 	"find":
@@ -124,8 +115,8 @@
 						"selection":
 						[
 							[
-								174,
-								174
+								29,
+								29
 							]
 						],
 						"settings":
@@ -152,15 +143,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 87,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								87,
-								87
+								42,
+								42
 							]
 						],
 						"settings":
@@ -249,7 +240,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
