@@ -11,3 +11,7 @@ function start () {
  function middle (argument) {
  	// body...
  }
+
+ function end (argument) {
+ 	// body...
+ }
